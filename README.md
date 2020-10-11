@@ -8,7 +8,7 @@ Backend Coding Challenge for market pulse
 
 1. clone
 2. `cd familytree`
-3. `pip3 install -r requirements.txt`  # Note - better you do this using virtualenvwrapper
+3. `pip3 install -r requirements.txt`  # Note - better you do this using [virtualenvwrapper](https://docs.python-guide.org/dev/virtualenvs/#virtualenvwrapper)
 4. `python manage.py runserver 0:8000`
 5. go to `localhost:8000/admin`
 6. login with `breadearner@family.com/@Least8Chars`
